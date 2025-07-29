@@ -1,1 +1,1 @@
-# spotify-smartlink-tracker
+# MagicLink-spotify
